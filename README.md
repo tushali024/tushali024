@@ -1,4 +1,4 @@
-  # Hello 👋, I'm Tushali
+  # 👋 Hello, I'm Tushali
                                               
 
   # Senior Front End Software Engineer (React, React Native, iOS)
