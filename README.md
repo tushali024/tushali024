@@ -14,7 +14,9 @@
 📫 How to reach me tushali024@gmail.com
 
 ⚡ Fun fact
+
 I'm never too tired to talk about tech.
+
 I focus more on real problems and solve it technically.
 
 <!--
